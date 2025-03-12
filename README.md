@@ -43,19 +43,11 @@ The project includes loss and accuracy plots for both CNN and VGG19 models to il
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cnn-vs-vgg19.git
-   cd cnn-vs-vgg19
+   git clone https://github.com/AshutoshTiwari0/Malaria-Disease-Detection-Deep-Learning.git
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Train models:
-   ```bash
-   python train.py
-   ```
-4. View results:
-   - Accuracy & loss plots are saved in `results/`.
+2. Run Jupyter File
+3. View results:
+   - Accuracy & loss plots are inside notebook.
 
 ## 📌 Conclusion
 - **VGG19** outperformed the simple **CNN** in both accuracy and loss.
